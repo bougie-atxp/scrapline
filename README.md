@@ -4,6 +4,10 @@
 
 ## Run locally
 
+## Hosted demo
+
+The latest `main` deployment publishes automatically to GitHub Pages via `.github/workflows/deploy.yml`. Enable **Settings → Pages → Build and deployment → Source: GitHub Actions** if the workflow has not run yet.
+
 Requires Node.js 22.12+ (or Node 20.19+) and npm. No backend, account, API keys, or external asset service.
 
 ```sh
