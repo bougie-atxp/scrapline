@@ -2,6 +2,10 @@
 
 **Draw badly. Drive beautifully.** Sketch a side-view car, lift your actual ink into a paper racer, and race two laps of a cardboard desktop stadium against three rivals.
 
+## Hosted demo
+
+**https://bougie-atxp.github.io/scrapline/** — built automatically from `main` by `.github/workflows/deploy.yml`.
+
 ## Run locally
 
 ## Hosted demo
